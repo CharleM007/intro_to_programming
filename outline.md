@@ -11,8 +11,14 @@ I'd be looking to focus on new programmers, as I'd think more experienced progra
 I can send along a syllabus/outline if needed. Just let me know.
 </pre>
 
-###Core Novice Tutorial Topics
-####Basic target apps: these will form the structure of the class
+##Key Points
+-  Writing multiple, small programs, like in "Introduction to Python"
+-  3 Hours
+    -  to match PyTexas time slots
+    -  not too long or short; leaves time for Q&A
+
+##Core Novice Tutorial Topics
+###Basic target apps: these will form the structure of the class
 +  process a text file
     *  CSVs are ubiquitious
 +  process an Excel file
@@ -38,22 +44,23 @@ I can send along a syllabus/outline if needed. Just let me know.
     +  after we build a basic app, add some GUI elements for picking files or URLs to process
     +  
 
-###Which Python Environment?
+##Which Python Environment?
 -  Enthought Canopy
     +  plus: an editor w/ lint and interactive shell all in ONE place.
     +  minus: might change people's default environment
     +  minus: Python 2.7
 -  Anaconda
     +  I need to learn more about this
+    +  probably use the Python 3 version of this
 -  Miniconda
 -  Plain Python/IDLE + Sublime Text
-    +  Idle would solve the "copy/past into the interactive shell" issue that may come up with JUST CLI tools.
+    +  Idle would solve the "copy/paste into the interactive shell" issue that may come up with JUST CLI tools.
 -  If I take a command line focus, that should "level the playing field", but I'll need to make sure I can get things working on Windows machines as well.
 
-###Py2 vs Py3
+##Py2 vs Py3
 -  I need to make a list of "major" modules not supported by Python 3 from https://python3wos.appspot.com
 
-###Class ideas
+##Variant Class ideas
 -  Intro to Python for aspiring Serious Programmers
     -  Text Editor
     -  Git
