@@ -13,6 +13,7 @@ I can send along a syllabus/outline if needed. Just let me know.
 
 ##Key Points
 -  Writing multiple, small programs, like in "Introduction to Python"
+    -  BONUS: Can I design them such that we can link them together, as modules in a larger program? **THAT** would be *AWESOME*!
 -  3 Hours
     -  to match PyTexas time slots
     -  not too long or short; leaves time for Q&A
