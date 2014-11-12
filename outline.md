@@ -43,7 +43,7 @@ I can send along a syllabus/outline if needed. Just let me know.
     +  One reason people want to learn to code is to work with all the data that's now available
 -  GUI basics?
     +  after we build a basic app, add some GUI elements for picking files or URLs to process
-    +  
+    +  PyQT comes with Anaconda
 
 ##Which Python Environment?
 -  Enthought Canopy
