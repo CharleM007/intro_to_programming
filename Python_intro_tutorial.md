@@ -4,27 +4,39 @@ AN emphasis on creating several small programs and expanding them.
 
 ##Core Novice Tutorial Topics
 Mention these are from "Introducing Python"
+
 -  Variables, Assignment & Basic data types
     +  Variables
         *  defined
         *  naming rules
+            *  lowercase letters (a through z)
+            *  uppercase letters (A through Z)
+            *  digits (0 through 9)
+            *  underscore (_)
     +  Basic Data Types
         *  What's a "data type" and why do you care?
             -  data types will influence how you work with an object
             -  knowing what data types a function requires and gives back is also important
         *  Our first function: the `type()` function
-            -  >>> type(10)
-                <type 'int'>
-                >>> type(10.0)
-                <type 'float'>
-                >>> type(10.)
-                <type 'float'>
+            <pre>
+            >>> type(10)
+            <type 'int'>
+            >>> type(10.0)
+            <type 'float'>
+            >>> type(10.)
+            <type 'float'>
+            </pre>
     +  Numbers
         +   Int
         +   Float
+        +   Math
+            *   Division: `/` vs `//` vs `%`
+            *   Exponents: `2 ** 3 = 8`
     +   Strings
         *   str
         *   2nd function: `len()`
+        *   Math
+            -   ''
     +   Two new functions: `help()` and `dir()`
     +   Bool
     +  When/How to use them
