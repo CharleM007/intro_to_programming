@@ -61,6 +61,9 @@ Mention these are from "Introducing Python"
     -  convert the small console apps into GUI apps
     -  Which GUI library or toolkit to use? I'll need to pick one. What's included with Anaconda?
 
+##What's Next?
+-  30 Day Github Challenge: Gamify your progress
+
 ##My Goals/needs
 -  Enhance my OWN Python skills
     +  OO code
