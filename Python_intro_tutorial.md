@@ -48,18 +48,19 @@ Mention these are from "Introducing Python"
 
 ##Basic target apps: these will form the structure of the class
 +  process a text file
-    *  CSVs are ubiquitious
+    *  CSVs are ubiquitous
 +  process an Excel file
 +  pull JSON from the web and process it
     *  learn the YouTube JSON structure
 +  process the contents of a directory
     *  use OS module to make this easier?
-+  process Images? Use Pillow
++  process Images? Use Pillow (included with Anaconda)
     *  It may be too difficult to get installed for novices
     *  Usage guide is [here](https://pillow.readthedocs.org/en/latest/guides.html)
 *  GUI tools
     -  convert the small console apps into GUI apps
     -  Which GUI library or toolkit to use? I'll need to pick one. What's included with Anaconda?
+        +  PyQT
 
 ##What's Next?
 -  30 Day Github Challenge: Gamify your progress
