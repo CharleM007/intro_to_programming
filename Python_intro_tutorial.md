@@ -56,7 +56,7 @@ Mention these are from "Introducing Python"
     *  use OS module to make this easier?
 +  process Images? Use Pillow (included with Anaconda)
     *  It may be too difficult to get installed for novices
-    *  Usage guide is [here](https://pillow.readthedocs.org/en/latest/guides.html)
+    *  Usage guide is [here](https://pillow.readthedocs.org/en/latest/guides.html); I'll need to learn more about it
 *  GUI tools
     -  convert the small console apps into GUI apps
     -  Which GUI library or toolkit to use? I'll need to pick one. What's included with Anaconda?

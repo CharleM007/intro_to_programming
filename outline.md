@@ -19,17 +19,6 @@ I can send along a syllabus/outline if needed. Just let me know.
     -  1 hour for Q&A and helping people start on designing their OWN programs
 
 ##Core Novice Tutorial Topics
-###Basic target apps: these will form the structure of the class
-+  process a text file
-    *  CSVs are ubiquitious
-+  process an Excel file
-+  pull JSON from the web and process it
-    *  learn the YouTube JSON structure
-+  process the contents of a directory
-    *  use OS module to make this easier?
-+  process Images? Use Pillow
-    *  It may be too difficul to get installed for novices
-    *  Usage guide is [here](https://pillow.readthedocs.org/en/latest/guides.html)
 
 -  Basic data types
     +  Numbers; String; Bool?
