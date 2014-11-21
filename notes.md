@@ -24,3 +24,4 @@
 -  [Open Hatch Training Missions](https://openhatch.org/missions/)
     +  [Relatively easy Python bugs](https://openhatch.org/search/?q=&project=Python&toughness=bitesize&language=Python)
         *  **I** need to look into this!
+-  [IronPython](http://ironpython.net/); for the .NET crowd.
