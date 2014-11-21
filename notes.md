@@ -25,3 +25,7 @@
     +  [Relatively easy Python bugs](https://openhatch.org/search/?q=&project=Python&toughness=bitesize&language=Python)
         *  **I** need to look into this!
 -  [IronPython](http://ironpython.net/); for the .NET crowd.
+-  [Bookshelves of Famous Programmers](http://pythonpracticeprojects.com/programmer-bookshelves.html)
+    +  In addition to the specific article, the Python Practice Projects site is great on it's own.
+-  [CATCHING THE BUS TO CLASS WITH PYTHON](http://www.danielforsyth.me/catching-the-bus-to-class-with-python/?utm_source=Python+Weekly+Newsletter&utm_campaign=2b85e7832e-Python_Weekly_Issue_160_October_9_2014&utm_medium=email&utm_term=0_9e26887fc5-2b85e7832e-312680573)
+    +  Also, [Python Weekly](http://www.pythonweekly.com/) is worth subscribing to. That's where I found this.
