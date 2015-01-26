@@ -34,9 +34,10 @@ Mention these are from "Introducing Python"
             *   Exponents: `2 ** 3 = 8`
     +   Strings
         *   str
+            -   'string' vs "string" vs '''string'''
         *   2nd function: `len()`
         *   Math
-            -   ''
+
     +   Two new functions: `help()` and `dir()`
     +   Bool
     +  When/How to use them
@@ -45,10 +46,19 @@ Mention these are from "Introducing Python"
     +  List; Tuple(?); Dictionary; Set
     +  When/how to use them
     +  Lists & Tuples
+        *  Similarities?
+            -  Both are [sequences](https://docs.python.org/3.4/glossary.html#term-sequence)
+            -  both can contain items of any type, including mixed types
+            -  both can be nested
+                +  `[1, "lemon", 3.14]`
+                +  `[[10,11,13], [21, 25, 27],[34, 36, 38]]`
+                +  `('monkey', 17, [1,2,3,4]`
         *  Differences?
             -  List are mutable; Tuples are immutable
             -  Tuples designed for collections where there *order* of the sequence has some meaning
                 +  `("lastName", "firstName", "initial", "xxx-xxx-xxxx")`
+            -  Being immutable, tuples have fewer methods than lists
+                +  `dir(tuple)` vs. `dir(list)`
         *  Indexing
             -  From left to right, "offsets"
             -  From right to left, "negative counting order"
