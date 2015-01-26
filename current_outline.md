@@ -42,8 +42,36 @@ Mention these are from "Introducing Python"
     +  When/How to use them
 
 -  Collection types
-    +  List; Tuple; Dictionary; Set
+    +  List; Tuple(?); Dictionary; Set
     +  When/how to use them
+    +  Lists & Tuples
+        *  Differences?
+            -  List are mutable; Tuples are immutable
+            -  Tuples designed for collections where there *order* of the sequence has some meaning
+                +  `("lastName", "firstName", "initial", "xxx-xxx-xxxx")`
+        *  Indexing
+            -  From left to right, "offsets"
+            -  From right to left, "negative counting order"
+                    >>> a = 1,2,3,4
+                    >>> a
+                    (1, 2, 3, 4)
+                    >>> a[0]
+                    1
+                    >>> a[-4]
+                    1
+                    >>> len(a)
+                    4
+            -  Why? 
+                -  What if you want the last item in a list? The last 2 items?
+                -  What if you want to perform an operation involving the last 2 items of a list, then add that result TO the list? What if you want to do it AGAIN?
+        +  Slicing: get more than one item from a list
+            *  `a[0:2]`
+            *  `>>> a[:]`
+            *  Steps
+                *  `>>> a[::2]`
+                *  `>>> a[1::2]`
+
+
 
 
 ##Basic target apps: these will form the structure of the class
