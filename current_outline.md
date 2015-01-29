@@ -5,6 +5,7 @@ AN emphasis on creating several small programs and expanding them.
 ##Core Novice Tutorial Topics
 Mention these are from "Introducing Python"
 
+###"STUFF": Programming Nouns
 -  Variables, Assignment & Basic data types
     +  Variables
         *  defined
@@ -18,14 +19,9 @@ Mention these are from "Introducing Python"
             -  data types will influence how you work with an object
             -  knowing what data types a function requires and gives back is also important
         *  Our first function: the `type()` function
-            <pre>
-            >>> type(10)
-            <type 'int'>
-            >>> type(10.0)
-            <type 'float'>
-            >>> type(10.)
-            <type 'float'>
-            </pre>
+            *  `>>> type(10)`
+            *  `>>> type(10.0)`
+            *  `>>> type(10.)`
     +  Numbers
         +   Int
         +   Float
@@ -33,10 +29,13 @@ Mention these are from "Introducing Python"
             *   Division: `/` vs `//` vs `%`
             *   Exponents: `2 ** 3 = 8`
     +   Strings
-        *   str
+        *   type `str`
             -   'string' vs "string" vs '''string'''
         *   2nd function: `len()`
-        *   Math
+        *   String math?
+        *   Errors!!
+        *   1 vs. '1'
+            -   converting 1 to '1': `str()`
 
     +   Two new functions: `help()` and `dir()`
     +   Bool
@@ -80,10 +79,10 @@ Mention these are from "Introducing Python"
             *  Steps
                 *  `>>> a[::2]`
                 *  `>>> a[1::2]`
+    *  Dictionary
+    *  Set
 
-###What do we DO with these data types?
-
-
+###What to *DO* with this "STUFF"? Programming Verbs
 
 
 ##Basic target apps: these will form the structure of the class
