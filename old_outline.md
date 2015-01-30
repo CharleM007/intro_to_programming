@@ -60,3 +60,4 @@ I can send along a syllabus/outline if needed. Just let me know.
     -  Python for people who aren't sure WHAT to do with Python
     -  Programming is about Problem Solving
     -  Fun, useful stuff
+

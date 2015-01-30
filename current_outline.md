@@ -33,13 +33,13 @@ Mention these are from "Introducing Python"
             -   'string' vs "string" vs '''string'''
         *   2nd function: `len()`
         *   String math?
-        *   Errors!!
+        *   String + Int == Errors!!
         *   1 vs. '1'
             -   converting 1 to '1': `str()`
 
     +   Two new functions: `help()` and `dir()`
+
     +   Bool
-    +  When/How to use them
 
 -  Collection types
     +  List; Tuple(?); Dictionary; Set
@@ -51,7 +51,7 @@ Mention these are from "Introducing Python"
             -  both can be nested
                 +  `[1, "lemon", 3.14]`
                 +  `[[10,11,13], [21, 25, 27],[34, 36, 38]]`
-                +  `('monkey', 17, [1,2,3,4]`
+                +  `('monkey', 17, [1,2,3,4])`
         *  Differences?
             -  List are mutable; Tuples are immutable
             -  Tuples designed for collections where there *order* of the sequence has some meaning
@@ -106,11 +106,3 @@ I need to create (or copy from somewhere else) the text, Excel and other files I
 
 ##What's Next?
 -  30 Day Github Challenge: Gamify your progress
-
-##My Goals/needs
--  Enhance my OWN Python skills
-    +  OO code
-    +  web stuff with Flask, Django
--  Prepare my two talks for PyTexas
-    +  spend more time with Excel stuff
--  RaspberryPi

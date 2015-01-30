@@ -20,6 +20,7 @@
 
 
 ##Next Steps: what to do after class?
+-  [ALL THE DOCS!!](https://docs.python.org/3/)
 -  [Python Module Index](https://docs.python.org/3/py-modindex.html)
     +  Python is often described as "batteries included". THESE are the batteries.
 -  [Four tips for learning to program](https://signalvnoise.com/posts/3014-four-tips-for-learning-how-to-program)
