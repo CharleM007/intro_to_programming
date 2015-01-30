@@ -39,8 +39,17 @@ Mention these are from "Introducing Python"
 
     +   Two new functions: `help()` and `dir()`
 
-    +   Bool
+    +   Bool and comparisons: first steps to making decisions
+        *  True; False
+        *  Equalities
+            *  `==` vs `=` 
+        *  Inequalities: `!=`, `<=`, `>=`
 
+###What to *DO* with this "STUFF"? Programming Verbs
+-  Making decisions: `if`, `elif`, `else`
+
+
+###More Nouns
 -  Collection types
     +  List; Tuple(?); Dictionary; Set
     +  When/how to use them
@@ -82,7 +91,7 @@ Mention these are from "Introducing Python"
     *  Dictionary
     *  Set
 
-###What to *DO* with this "STUFF"? Programming Verbs
+
 
 
 ##Basic target apps: these will form the structure of the class

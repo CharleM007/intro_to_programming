@@ -7,7 +7,6 @@
 -  [GUI Programming in Python](https://wiki.python.org/moin/GuiProgramming)
     -  Also, [GUI Programming in Python](https://wiki.python.org/moin/GUI%20Programming%20in%20Python)
 
-
 ##Installing & wrangling Python
 -  [PyCon intro tutorial prep/Windows set up Python](https://openhatch.org/wiki/PyCon_intro_tutorial_prep/Windows_set_up_Python)
 -  [Using multiple versions of Python](http://stackoverflow.com/questions/20555517/using-multiple-versions-of-python)
