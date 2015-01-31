@@ -26,7 +26,6 @@
 -  [Four tips for learning to program](https://signalvnoise.com/posts/3014-four-tips-for-learning-how-to-program)
 -  [Open Hatch Training Missions](https://openhatch.org/missions/)
     +  [Relatively easy Python bugs](https://openhatch.org/search/?q=&project=Python&toughness=bitesize&language=Python)
-        *  **I** need to look into this!
 -  [IronPython](http://ironpython.net/); for the .NET crowd.
 -  [Bookshelves of Famous Programmers](http://pythonpracticeprojects.com/programmer-bookshelves.html)
     +  In addition to the specific article, the Python Practice Projects site is great on it's own.
