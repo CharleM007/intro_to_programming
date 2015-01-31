@@ -40,13 +40,13 @@ Mention these are from "Introducing Python"
     +   Two new functions: `help()` and `dir()`
 
     +   Bool and comparisons: first steps to making decisions
-        *  True; False
+        *  True; False; and, or, in
         *  Equalities
             *  `==` vs `=` 
         *  Inequalities: `!=`, `<=`, `>=`
 
 ###What to *DO* with this "STUFF"? Programming Verbs
--  Making decisions: `if`, `elif`, `else`
+-  Making decisions: `if`, `else`, `elif`
 
 ###Programming is Problem Solving! Our first challenge!
 -  CodeBat problem
