@@ -14,3 +14,8 @@ for i in range(1,11):
 
 # for i in range(1,11):
 #     print(i, i**2, float(i^2))
+
+names = ["Bob", "Edgar", "Frank", "Olivia", "Katrina"]
+for name in names:
+    if name[0] in "AEIOU":
+        print(name + " starts with a vowel")
