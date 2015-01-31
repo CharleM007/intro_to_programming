@@ -48,6 +48,10 @@ Mention these are from "Introducing Python"
 ###What to *DO* with this "STUFF"? Programming Verbs
 -  Making decisions: `if`, `elif`, `else`
 
+###Programming is Problem Solving! Our first challenge!
+-  CodeBat problem
+-  Fizzbuzz Questions
+
 
 ###More Nouns
 -  Collection types

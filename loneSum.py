@@ -12,16 +12,8 @@ a,b,c = 3, 2, 3 → 2
 a,b,c = 3, 3, 3 → 0
 '''
 
-if a == b == c:
-    print(0)
-elif a == b:
-    print(c)
-elif a == c:
-    print(b)
-elif b == c:
-    print(a)
-else:
-    print(a + b + c)
+#How would you solve this? Take 5 minutes to consider it
+#try to write code and test your ideas
 
 
 
