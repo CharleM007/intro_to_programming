@@ -20,3 +20,8 @@ names = ["Bob", "Edgar", "Frank", "Olivia", "Katrina"]
 for name in names:
     if name[0] in "AEIOU":
         print(name + " starts with a vowel")
+
+prices = [20, 35.73, 1.79]
+budget = 0
+for price in prices:
+    budget = budget + price
