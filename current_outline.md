@@ -101,6 +101,14 @@ Mention these are from "Introducing Python"
 ###Files
 ###Get data from the web!
 
-
 ##What's Next?
 -  30 Day Github Challenge: Gamify your progress
+-  Specific libraries
+    +  [OpenPyXL docs](http://openpyxl.readthedocs.org/en/latest/) for working with Excel documents
+    +  [Pillow](https://pillow.readthedocs.org/handbook/tutorial.html) for working with images
+    +  [os standard module](https://docs.python.org/3/library/os.html) for working with your particular operating system
+        *  [st_mtime](https://docs.python.org/3/library/os.html#os.stat_result.st_mtime) and other methods let you look at when files were created or modified. Results vary by OS.
+    +  [sys module](https://docs.python.org/3/library/sys.html#module-sys): we only looked at `sys.argv` today. There's a LOT more.
+    +  [NumPy](http://www.numpy.org) and [SciPy](http://scipy.org) for sophisticated math, engineering and data analysis
+    +  [NLTK](http://www.nltk.org): Natural Language Tool Kit, "for building Python programs to work with human language data."
+    +  [PyGame](http://pygame.org/wiki/about), "a set of Python modules designed for writing games."
