@@ -104,6 +104,7 @@ Mention these are from "Introducing Python"
 -  See [writing.py](writing.py) and [reading.py](reading.py) for code examples that write a file [`scores.txt`](scores.txt), then read that file and process it's contents. 
 
 ###Get data from the web!
+-  [youtube_stats.py](youtube_stats.py) is the file I demoed at the end of class.
 
 ##What's Next?
 -  30 Day Github Challenge: Gamify your progress
