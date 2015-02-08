@@ -15,9 +15,6 @@
     *  STILL not as easy as it should be
 +  [Use different Python version with virtualenv](http://stackoverflow.com/questions/1534210/use-different-python-version-with-virtualenv)
 
-
-
-
 ##Next Steps: what to do after class?
 -  [ALL THE DOCS!!](https://docs.python.org/3/)
 -  [Python Module Index](https://docs.python.org/3/py-modindex.html)

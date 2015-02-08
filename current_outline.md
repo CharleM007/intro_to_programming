@@ -50,8 +50,10 @@ Mention these are from "Introducing Python"
 
 ###Programming is Problem Solving! Our first challenge!
 -  CodeBat problem
+    +  [loneSum.py](loneSum.py) shows my solution to the problem of summing numbers but ignoring numbers that have a duplicate value.
 -  Fizzbuzz Questions
-
+    +  Google this and try to solve some for yourself!
+    
 
 ###More Nouns
 -  Collection types
@@ -101,13 +103,13 @@ Mention these are from "Introducing Python"
     +  a simple example is used in [writing.py](writing.py)
 
 ###Files
--  See [writing.py](writing.py) and [reading.py](reading.py) for code examples that write a file [`scores.txt`](scores.txt), then read that file and process it's contents. 
+-  See [writing.py](writing.py) and [reading.py](reading.py) for code examples that write a file [`scores.txt`](scores.txt), then read that file and process it's contents. Also, take a look at [flashcards.py](flashcards.py), which reads a file when you give it the file name. Enter `python flashcards.py french_food.txt` or `python flashcards.py state_)capitals.txt` to see the code run.
 
 ###Get data from the web!
 -  [youtube_stats.py](youtube_stats.py) is the file I demoed at the end of class.
 
 ##What's Next?
--  30 Day Github Challenge: Gamify your progress
+-  [30 Day Github Challenge](http://tomwayson.com/2014/01/16/my-github-30-day-challenge/): Gamify your progress to help you continue to write code.
 -  Specific libraries
     +  [OpenPyXL docs](http://openpyxl.readthedocs.org/en/latest/) for working with Excel documents
     +  [Pillow](https://pillow.readthedocs.org/handbook/tutorial.html) for working with images
