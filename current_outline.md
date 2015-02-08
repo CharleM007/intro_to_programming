@@ -96,9 +96,13 @@ Mention these are from "Introducing Python"
 
 ###More Verbs: Loops
 -  For
--  While
+    +  see [`for.py`](for.py) for examples
+-  [While](https://docs.python.org/3/reference/compound_stmts.html#while)
+    +  a simple example is used in [writing.py](writing.py)
 
 ###Files
+-  See [writing.py](writing.py) and [reading.py](reading.py) for code examples that write a file [`scores.txt`](scores.txt), then read that file and process it's contents. 
+
 ###Get data from the web!
 
 ##What's Next?
