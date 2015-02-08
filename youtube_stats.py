@@ -9,8 +9,8 @@ data = json.loads(text)
 for video in data['feed']['entry'][0:5]:
     print(video['title']['$t'])
 
-
-print(20*"*")
+print()
+print(70 * "#")
 print(str.upper('''These results come from six lines of Python 3, 
     using the Requests library. There's also some additional formatting
     done to the strings. That's in line 23 of the code.'''))
